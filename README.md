@@ -1,7 +1,5 @@
 # DigitRecognition
-Recognizes hand written digits
-
-
+Recognizes hand written digits using a model trained in tensorflow and also by training a SVC model. 
 
 
 
